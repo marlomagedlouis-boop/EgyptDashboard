@@ -1,0 +1,43 @@
+﻿Platform,Channel,KPI, MTD_Actual , Full_Month_Target ,Total_Days_in_Month,Days_Passed
+Customer Portal,LKA,Registered Customers,"1,673.00","1,408.00",24,7
+Customer Portal,LKA,Active Customers,356,957,24,7
+Customer Portal,LKA,Delivered Orders,571,"2,872.00",24,7
+Customer Portal,LKA,Volume UC,"73,767.00","298,595.00",24,7
+Customer Portal,LKA,NSR,"4,761,580.00","19,855,530.00",24,7
+Customer Portal,LKA,Active Placed,436,,24,7
+Customer Portal,LKA,Digital Order Share %,29.15,,24,7
+Customer Portal,LKA,Digital Volume Share %,38.19,,24,7
+Customer Portal,DSD,Registered Customers,"9,848.00","10,030.00",24,7
+Customer Portal,DSD,Active Customers,"2,400.00","2,909.00",24,7
+Customer Portal,DSD,Delivered Orders,"3,176.00","5,236.00",24,7
+Customer Portal,DSD,Volume UC,"277,854.00","114,574.00",24,7
+Customer Portal,DSD,NSR,"18,896,421.00","8,675,742.00",24,7
+Customer Portal,DSD,Active Placed,"2,271.00",,24,7
+Customer Portal,DSD,Digital Order Share %,5.17,,24,7
+Customer Portal,DSD,Digital Volume Share %,8.92,,24,7
+Customer Portal,WHS,Registered Customers,"2,232.00","2,041.00",24,7
+Customer Portal,WHS,Active Customers,510,"1,224.00",24,7
+Customer Portal,WHS,Delivered Orders,1471,"6,122.00",24,7
+Customer Portal,WHS,Volume UC,"470,003.00","1,212,411.00",24,7
+Customer Portal,WHS,NSR,"37,666,178.00","86,386,155.00",24,7
+Customer Portal,WHS,Active Placed,391,,24,7
+Customer Portal,WHS,Digital Order Share %,39.09,,24,7
+Customer Portal,WHS,Digital Volume Share %,33.31,,24,7
+Customer Portal,HORECA,Registered Customers,197,320,24,7
+Customer Portal,HORECA,Active Customers,47,160,24,7
+Customer Portal,HORECA,Delivered Orders,64,640,24,7
+Customer Portal,HORECA,Volume UC,"5,745.00","22,607.00",24,7
+Customer Portal,HORECA,NSR,"479,759.00","1,227,079.00",24,7
+Customer Portal,HORECA,Active Placed,54,,24,7
+Customer Portal,HORECA,Digital Order Share %,3.56,,24,7
+Customer Portal,HORECA,Digital Volume Share %,0.95,,24,7
+Chatbot,NA,Registered Customers,"3,126.00","3,714.00",24,7
+Chatbot,NA,Active Customers,734,"2,229.00",24,7
+Chatbot,NA,Delivered Orders,978,"4,457.00",24,7
+Chatbot,NA,Volume UC,"110,527.00","297,677.00",24,7
+Chatbot,NA,NSR,"6,405,372.00","20,074,993.00",24,7
+Chatbot,NA,Active Placed,854,,24,7
+Chatbot,NA,Digital Order Share %,21,,24,7
+Chatbot,NA,Digital Volume Share %,12,,24,7
+Customer Portal,Total,Digital Order Share %,7.42,,24,7
+Customer Portal,Total,Digital Volume Share %,12.18,,24,7
