@@ -1,0 +1,51 @@
+﻿Platform,Channel,KPI, MTD_Actual , Full_Month_Target ,Total_Days_in_Month,Days_Passed
+Customer Portal,LKA,Registered Customers,"1,698.00","1,689",24,16
+Customer Portal,LKA,Active Customers,504,878,24,16
+Customer Portal,LKA,Delivered Orders,"1,053","2,650.00",24,16
+Customer Portal,LKA,Volume UC,"118,541.75","265,084.00",24,16
+Customer Portal,LKA,NSR,"7,134,752.88","14,579,627.00",24,16
+Customer Portal,LKA,Active Placed,626,979,24,16
+Customer Portal,LKA,Digital Order Share %,10.63,,24,16
+Customer Portal,LKA,Digital Volume Share %,26.18,,24,16
+Customer Portal,DSD,Registered Customers,"14,988.00","10,550.00",24,16
+Customer Portal,DSD,Active Customers,"2,759","4,994",24,16
+Customer Portal,DSD,Delivered Orders,"3,769","8,518.27",24,16
+Customer Portal,DSD,Volume UC,"308,686.89","527,028.21",24,16
+Customer Portal,DSD,NSR,"19,101,657.18","30,904,878.84",24,16
+Customer Portal,DSD,Active Placed,"3,041","5,350.00",24,16
+Customer Portal,DSD,Digital Order Share %,3.39,,24,16
+Customer Portal,DSD,Digital Volume Share %,7.11,,24,16
+Customer Portal,WHS,Registered Customers,"2,405.00","2,228.00",24,16
+Customer Portal,WHS,Active Customers,904,"1,625.84",24,16
+Customer Portal,WHS,Delivered Orders,"4,352","10,567.95",24,16
+Customer Portal,WHS,Volume UC,"1,473,162.69","2,483,468.00",24,16
+Customer Portal,WHS,NSR,"139,217,171.56","226,495,145.86",24,16
+Customer Portal,WHS,Active Placed,980,1630,24,16
+Customer Portal,WHS,Digital Order Share %,44.3,,24,16
+Customer Portal,WHS,Digital Volume Share %,42.14,,24,16
+Customer Portal,HORECA,Registered Customers,300,320,24,16
+Customer Portal,HORECA,Active Customers,138,160,24,16
+Customer Portal,HORECA,Delivered Orders,257,640,24,16
+Customer Portal,HORECA,Volume UC,"29,186.50","22,607.00",24,16
+Customer Portal,HORECA,NSR,"1,921,755.10","1,227,079.00",24,16
+Customer Portal,HORECA,Active Placed,143,135,24,16
+Customer Portal,HORECA,Digital Order Share %,5.79,,24,16
+Customer Portal,HORECA,Digital Volume Share %,1.84,,24,16
+Customer Portal,Distributor,Registered Customers,12,12,24,16
+Customer Portal,Distributor,Active Customers,6,2,24,16
+Customer Portal,Distributor,Delivered Orders,100,95,24,16
+Customer Portal,Distributor,Volume UC,"282,976.78","59,818.56",24,16
+Customer Portal,Distributor,NSR,"21,277,363.19","3,150,503.47",24,16
+Customer Portal,Distributor,Active Placed,5,5,24,16
+Customer Portal,Distributor,Digital Order Share %,2.6,,24,16
+Customer Portal,Distributor,Digital Volume Share %,8.98,,24,16
+Chatbot,NA,Registered Customers,"5,076","4,071.00",24,16
+Chatbot,NA,Active Customers,"1,612","2,147",24,16
+Chatbot,NA,Delivered Orders,"3,103","5,323.47",24,16
+Chatbot,NA,Volume UC,"355,883.80","464,709.43",24,16
+Chatbot,NA,NSR,"19,517,370.15","37,470,469.33",24,16
+Chatbot,NA,Active Placed,"1,753","2,400",24,16
+Chatbot,NA,Digital Order Share %,19,,24,16
+Chatbot,NA,Digital Volume Share %,12,,24,16
+Customer Portal,Total,Digital Order Share %,6.93,,24,16
+Customer Portal,Total,Digital Volume Share %,16.15,,24,16
